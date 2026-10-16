@@ -1,4 +1,6 @@
-/test
+/test/
+/scripts/
+/archive/
 *zip
 023.lua
 lib/libstealthx.lua
