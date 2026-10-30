@@ -6,9 +6,27 @@
       "type": "giveaway",
       "title": "NEW REDEEM CODE",
       "code": "FREE2KEYS-3DAY-PREM",
-      "content": "Redeem Code for 3 day premium access.\nOnly available to the <b>2 fastest people</b>. Copy the link below to join the giveaway.\n Redeem in: https://getstealthx.site/",
+      "content": "Redeem Code for 3 day premium access.\nOnly available to the <b>2 fastest people</b>. Copy the link below to join the giveaway.\nRedeem in: <font color=\"#4DA3FF\">https://getstealthx.site/</font>",
       "links": "https://getstealthx.site/",
       "linktitle": "Copy link"
+    },
+    {
+      "enabled": false,
+      "placeid": 118517641508250,
+      "type": "promotion",
+      "title": "SPECIAL PREMIUM OFFER",
+      "content": "Premium access is available for a limited time.\nView the plans at <font color=\"#4DA3FF\">https://getstealthx.site/</font>.",
+      "links": "https://getstealthx.site/",
+      "linktitle": "Copy link"
+    },
+    {
+      "enabled": false,
+      "placeid": 118517641508250,
+      "type": "announcement",
+      "title": "IMPORTANT ANNOUNCEMENT",
+      "content": "A new update is available. Please restart the script to load the latest version.\n<b>Thank you for using Stealth-X!</b>",
+      "links": "",
+      "linktitle": ""
     }
   ]
 }
