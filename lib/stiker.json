@@ -1,1 +1,7 @@
-{}
+{
+  "stickers": [
+    { "id": "duhgusti", "name": "Smile", "image": "https://i.pinimg.com/736x/fe/bf/00/febf007f6f21c52746222805f82c4e97.jpg" },
+    { "id": "itugarispekbgtwok", "name": "Heart", "image": "https://i.pinimg.com/736x/2b/65/95/2b659507ea82f58b1b01e6f1a8cd9a46.jpg" },
+    { "id": "johnggateli", "name": "Fire", "image": "https://i.pinimg.com/736x/f3/78/71/f37871d151d2e67e4b2f50e8708a17e8.jpg" }
+  ]
+}
