@@ -1,7 +1,24 @@
 {
   "stickers": [
-    { "id": "duhgusti", "name": "Smile", "image": "https://i.pinimg.com/736x/fe/bf/00/febf007f6f21c52746222805f82c4e97.jpg" },
-    { "id": "itugarispekbgtwok", "name": "Heart", "image": "https://i.pinimg.com/736x/2b/65/95/2b659507ea82f58b1b01e6f1a8cd9a46.jpg" },
-    { "id": "johnggateli", "name": "Fire", "image": "https://i.pinimg.com/736x/f3/78/71/f37871d151d2e67e4b2f50e8708a17e8.jpg" }
+    { "id": "duhgusti", "name": "duhgusti", "image": "https://i.pinimg.com/736x/fe/bf/00/febf007f6f21c52746222805f82c4e97.jpg" },
+    { "id": "itugarispekbgtwok", "name": "itugarispekbgtwok", "image": "https://i.pinimg.com/736x/2b/65/95/2b659507ea82f58b1b01e6f1a8cd9a46.jpg" },
+    { "id": "johnggateli", "name": "johnggateli", "image": "https://i.pinimg.com/736x/f3/78/71/f37871d151d2e67e4b2f50e8708a17e8.jpg" },
+    { "id": "gokil", "name": "gokil", "image": "https://i.pinimg.com/736x/7c/f5/88/7cf58881879f9099d8fbfa9af5892496.jpg" },
+    { "id": "titut", "name": "titut", "image": "https://i.pinimg.com/736x/35/c8/87/35c887e1b346ffb237e3a6f74faba9de.jpg" },
+    { "id": "girls1", "name": "girls1", "image": "https://i.pinimg.com/736x/f2/45/c3/f245c31a42b0071da057d170e5a265b1.jpg" },
+    { "id": "huh", "name": "huh", "image": "https://i.pinimg.com/736x/bb/60/ed/bb60ed46f6d64386f3badd4c9c3c3d28.jpg" },
+    { "id": "garispek", "name": "garispek", "image": "https://i.pinimg.com/736x/a6/82/46/a682468415c371a31f4d895d6ff959db.jpg" },
+    { "id": "spongspeed", "name": "spongspeed", "image": "https://i.pinimg.com/736x/e1/96/90/e19690c013fdffd2b62b1d56c9692b36.jpg" },
+    { "id": "omg", "name": "omg", "image": "https://i.pinimg.com/736x/2e/3b/c4/2e3bc4994dc0e5b285dc1c152040bc2f.jpg" },
+    { "id": "", "name": "1", "image": "" },
+    { "id": "", "name": "2", "image": "" },
+    { "id": "", "name": "3", "image": "" },
+    { "id": "", "name": "4", "image": "" },
+    { "id": "", "name": "5", "image": "" },
+    { "id": "", "name": "6", "image": "" },
+    { "id": "", "name": "7", "image": "" },
+    { "id": "", "name": "8", "image": "" },
+    { "id": "", "name": "9", "image": "" },
+    { "id": "", "name": "10", "image": "" }
   ]
 }
