@@ -8,7 +8,7 @@
       "title": "NEW REDEEM CODE",
       "code": "FREE2KEYS-3DAY-PREM",
       "content": "Redeem Code for <b>3 day premium access</b>.\nOnly available to the <b>5 fastest people</b>. Copy the link below to join the giveaway.\n\nRedeem in: <font color=\"#4DA3FF\">https://getstealthx.site/</font>",
-      "image": "https://getstealthx.site/assets/hero/stealth-atmosphere-poster.webp",
+      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/background3.jpg",
       "transparent": 0.3,
       "links": "https://getstealthx.site/",
       "linktitle": "Copy link"
@@ -19,7 +19,7 @@
       "type": "promotion",
       "title": "HOW TO BUY?",
       "content": "Official Website:\n<font color=\"#4DA3FF\">https://getstealthx.site/</font>.",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/background3.jpg",
       "transparent": 0.3,
       "links": "https://getstealthx.site/",
       "linktitle": "Copy link"
@@ -30,7 +30,7 @@
       "type": "announcement",
       "title": "IMPORTANT ANNOUNCEMENT",
       "content": "A new update is available. Please restart the script to load the latest version.\n<b>Thank you for using Stealth-X!</b>",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/background3.jpg",
       "transparent": 0.3,
       "links": "",
       "linktitle": ""
