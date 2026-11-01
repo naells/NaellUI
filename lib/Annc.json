@@ -1,13 +1,14 @@
 {
+  "backgroundImage": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/halloween3.jpg",
   "announcements": [
     {
       "enabled": false,
       "placeid": 118517641508250,
       "type": "giveaway",
-      "title": "REDEEM CODE PHASE2",
-      "code": "-",
-      "content": "Redeem Code for <b>3 day premium access SOLD OUT</b>.\nOnly available to the <b>5 fastest people</b>. Copy the link below to redeem the code.\n\nRedeem in: <font color=\"#4DA3FF\">https://getstealthx.site/</font>",
-      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/halloween3.jpg",
+      "title": "NEW REDEEM CODE",
+      "code": "FREE2KEYS-3DAY-PREM",
+      "content": "Redeem Code for <b>3 day premium access</b>.\nOnly available to the <b>5 fastest people</b>. Copy the link below to join the giveaway.\n\nRedeem in: <font color=\"#4DA3FF\">https://getstealthx.site/</font>",
+      "image": "https://getstealthx.site/assets/hero/stealth-atmosphere-poster.webp",
       "transparent": 0.3,
       "links": "https://getstealthx.site/",
       "linktitle": "Copy link"
@@ -18,7 +19,7 @@
       "type": "promotion",
       "title": "SPECIAL PREMIUM OFFER",
       "content": "Premium access is available for a limited time.\nView the plans at <font color=\"#4DA3FF\">https://getstealthx.site/</font>.",
-      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/halloween3.jpg",
+      "image": "",
       "transparent": 0.3,
       "links": "https://getstealthx.site/",
       "linktitle": "Copy link"
@@ -29,7 +30,7 @@
       "type": "announcement",
       "title": "IMPORTANT ANNOUNCEMENT",
       "content": "A new update is available. Please restart the script to load the latest version.\n<b>Thank you for using Stealth-X!</b>",
-      "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/halloween3.jpg",
+      "image": "",
       "transparent": 0.3,
       "links": "",
       "linktitle": ""
