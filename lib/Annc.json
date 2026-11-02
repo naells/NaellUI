@@ -25,7 +25,7 @@
             "linktitle": "Copy link"
         },
         {
-            "enabled": true,
+            "enabled": false,
             "placeid": 118517641508250,
             "type": "announcement",
             "title": "ROD SETTINGS",
@@ -36,11 +36,11 @@
             "linktitle": "Discord Server"
         },
         {
-            "enabled": false,
+            "enabled": true,
             "placeid": 118517641508250,
             "type": "announcement",
             "title": "TRADE FOR PREMIUM",
-            "content": "• Golden Pet Lv.1 → <font color=\"#FFD700\"><b>Pro Plan</b></font>\n• Pet + Core → <font color=\"#60A5FA\"><b>Plus Plan</b></font>\n• Atau berikan penawaranmu.\n\n⚠️ <b>Hanya menerima penawaran yang setara, low value kita tolak.</b>\n Open Discord ticket to offer! berlaku <b>hari ini dan esok.</b>",
+            "content": "• Golden Pet Lv. 1 → Premium Pro Plan\n• Pet + Core → Premium Plus Plan\nPunya penawaran lain?Open Ticket di Discord dan kirim tawaranmu!\n\nKhusus Pro & Plus Plan.\nby: Qweenutz",
             "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/background3.jpg",
             "transparent": 0.3,
             "links": "https://discord.gg/NvKWVjwgGX",
