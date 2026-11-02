@@ -1,5 +1,6 @@
 {
   "stickers": [
+    { "id": "omg", "name": "omg", "image": "https://i.pinimg.com/736x/2e/3b/c4/2e3bc4994dc0e5b285dc1c152040bc2f.jpg" },
     { "id": "girls1", "name": "girls1", "image": "https://i.pinimg.com/736x/f2/45/c3/f245c31a42b0071da057d170e5a265b1.jpg" },
     { "id": "girls2", "name": "girls2", "image": "https://i.pinimg.com/736x/f4/2f/db/f42fdb2f9ee2735ffcfca8c3636cad65.jpg" },
     { "id": "girls3", "name": "girls3", "image": "https://i.pinimg.com/736x/c5/f4/4c/c5f44c64548ef626aee351c136f1e754.jpg" },
@@ -14,7 +15,6 @@
     { "id": "huh", "name": "huh", "image": "https://i.pinimg.com/736x/bb/60/ed/bb60ed46f6d64386f3badd4c9c3c3d28.jpg" },
     { "id": "garispek", "name": "garispek", "image": "https://i.pinimg.com/736x/a6/82/46/a682468415c371a31f4d895d6ff959db.jpg" },
     { "id": "spongspeed", "name": "spongspeed", "image": "https://i.pinimg.com/736x/e1/96/90/e19690c013fdffd2b62b1d56c9692b36.jpg" },
-    { "id": "omg", "name": "omg", "image": "https://i.pinimg.com/736x/2e/3b/c4/2e3bc4994dc0e5b285dc1c152040bc2f.jpg" },
     { "id": "donatur", "name": "donatur", "image": "https://i.pinimg.com/1200x/8c/ee/ad/8ceeadc54ae50af9c782539dc78cf2c2.jpg" },
     { "id": "malutuh", "name": "malutuh", "image": "https://i.pinimg.com/736x/17/74/9a/17749a554098996958e5d3f1fcf7b2a5.jpg" },
     { "id": "peduli", "name": "peduli", "image": "https://i.pinimg.com/736x/10/37/12/103712a9d90cdd91a65e5b4d372a4bed.jpg" },
