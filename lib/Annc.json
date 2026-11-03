@@ -38,7 +38,7 @@
   ],
   "notify": [
     {
-      "enabled": true,
+      "enabled": false,
       "placeid": 118517641508250,
       "title": "Naell",
       "description": "Owner",
