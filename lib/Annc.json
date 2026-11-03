@@ -36,11 +36,11 @@
             "linktitle": "Discord Server"
         },
         {
-            "enabled": true,
+            "enabled": false,
             "placeid": 118517641508250,
             "type": "announcement",
             "title": "PREMIUM DISCOUNT",
-            "content": "Potongan Harga kusus hari ini\n\nMonthly 20K\nPermanent 55K\n\nOpen ticket di discord untuk payment.\nby: Qweenutz",
+            "content": "Potongan Harga kusus hari ini\n\nMonthly 20K\nPermanent 55K\n\nOpen ticket di discord untuk payment.\nby: Qweenutz\nstok: 5",
             "image": "https://i.pinimg.com/1200x/78/1e/b7/781eb7d45340644e055150af3ca3efb1.jpg",
             "transparent": 0.1,
             "links": "https://discord.gg/NvKWVjwgGX",
