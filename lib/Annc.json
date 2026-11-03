@@ -36,7 +36,7 @@
             "linktitle": "Discord Server"
         },
         {
-            "enabled": true,
+            "enabled": false,
             "placeid": 118517641508250,
             "type": "announcement",
             "title": "TRADE FOR PREMIUM",
