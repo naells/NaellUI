@@ -38,11 +38,11 @@
   ],
   "notify": [
     {
-      "enabled": false,
+      "enabled": true,
       "placeid": 118517641508250,
       "title": "Naell",
       "description": "Owner",
-      "icon": 80162965743307,
+      "icon": 88750519099235,
       "color": "#F2D39D",
       "content": "hi everyone",
       "transparent": 0.3,
