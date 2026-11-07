@@ -25,11 +25,11 @@
       "linktitle": "Copy link"
     },
 {
-  "enabled": false,
+  "enabled": true,
   "placeid": 118517641508250,
   "type": "announcement",
-  "title": "ROD SETTINGS",
-  "content": "Starter: 1.25s\nAres: 1.1s\nGhostfinn: 1.05s\nBamboo: 0.8s\nElement: 0.68s\nDiamond: 0.55s\nWithering: 0.44s\n\nFree users can still enter Catch Delay manually. Please restart the script to get the latest update.",
+  "title": "SCRIPT UPDATE",
+  "content": "Fixed can't summit, now u can use again auto summit.\n\nRejoin the reexecute!",
   "image": "https://raw.githubusercontent.com/naells/NaellUI/refs/heads/main/img/background3.jpg",
   "transparent": 0.3,
   "links": "https://discord.gg/NvKWVjwgGX",
